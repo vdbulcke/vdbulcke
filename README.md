@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - [terraform-vault-sample](https://github.com/vdbulcke/terraform-vault-sample): Sample Vault configuration in Terraform and tutorial guides to kickstart your Vault setup. 
 - [vault-token-monitor](https://github.com/vdbulcke/vault-token-monitor): Monitoring server to track Vault tokens' expiration  TTLs and exposing them as Prometheus metrics. Additionally adds the ability to auto-renew Vault [periodic tokens](https://developer.hashicorp.com/vault/docs/concepts/tokens#periodic-tokens).
-- [hc-vault-util](https://github.com/vdbulcke/hc-vault-util): CLI tool for Vault Transit secret engine: import private key into Vault Transit, and generate CSR from a Vault Transit backed private key.
+- [hc-vault-util](https://github.com/vdbulcke/hc-vault-util): CLI tool for Vault Transit secret engine: import private key into Vault Transit, and generate CSR from a Vault Transit backed private key. Vault TUI for kv2 secret engine.
 - [secret-agent](https://github.com/vdbulcke/secret-agent/tree/feature/vault) Fork of Forgerock secret agent kubernetes operator to add Hashicorp Vault as a KMS.
 
 ##### GitOps 
