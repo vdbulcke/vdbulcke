@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - [oidc-server](https://github.com/vdbulcke/oidc-server-demo): Mock OIDC server for testing integration with OIDC Relying Party (i.e. can be used to mock response from OIDC Providers in dev environments). 
 - [cert-monitor](https://github.com/vdbulcke/cert-monitor): Both CLI and monitoring server for discovering X509 certificates from various sources: TLS, LDAPS, SAML XML Metadata, OIDC JWK URIs, and expose certificates expiration dates as Prometheus metric for monitoring and alerting. As CLI can be used to extract, parse and display X509 certificates from remote sources.
 
+##### Rust
+
+- [ghost](https://github.com/vdbulcke/ghost): Zellij wasm plugin written in rust to launch floating RunCommand panes.
 
 
 ##### Hashicorp Vault
