@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ##### Rust
 
 - [ghost](https://github.com/vdbulcke/ghost): Zellij wasm plugin written in rust to launch floating RunCommand panes.
+- [zellij-workspace](https://github.com/vdbulcke/zellij-workspace): Zellij plugin to apply multi tabs layout to current zellij session.
 
 
 ##### Hashicorp Vault
