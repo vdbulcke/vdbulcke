@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 - [json-patcher](https://github.com/vdbulcke/json-patcher): CLI (and interactive terminal UI) tool for managing, previewing, and applying JSON Patch RFC6902 (i.e. same as Kustomize but for arbitrary JSON).
 
+##### Tools
+
+- [reveal](https://github.com/vdbulcke/reveal): General purpose Terminal base decoder (jwt, base64, X509,url encoded, etc).
 
 ##### Algo
 
