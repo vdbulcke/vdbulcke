@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Projects 
 
 ##### OIDC/IAM
-
+- [oauthx](https://github.com/vdbulcke/oauthx): a fully-featured oauth2 client library in go.
 - [oidc-client](https://github.com/vdbulcke/oidc-client-demo): OIDC CLI client for testing/troubleshooting integration with OpenID Connect Providers (e.g. Forgerock, Azure AD, Okta, FAS, etc).
 - [oidc-server](https://github.com/vdbulcke/oidc-server-demo): Mock OIDC server for testing integration with OIDC Relying Party (i.e. can be used to mock response from OIDC Providers in dev environments). 
 - [cert-monitor](https://github.com/vdbulcke/cert-monitor): Both CLI and monitoring server for discovering X509 certificates from various sources: TLS, LDAPS, SAML XML Metadata, OIDC JWK URIs, and expose certificates expiration dates as Prometheus metric for monitoring and alerting. As CLI can be used to extract, parse and display X509 certificates from remote sources.
